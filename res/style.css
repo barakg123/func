@@ -1,0 +1,13 @@
+body{
+    display: flex;
+    flex-basis: border-box;
+    background-color: navajowhite;
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+}
+
+div{
+    font-family: Arial;
+    justify-content: center;
+}

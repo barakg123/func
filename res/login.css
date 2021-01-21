@@ -1,0 +1,42 @@
+body{
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    background-color: white;
+    height: 100vh;
+}
+
+div{
+}
+input{
+    margin: 1vh;
+    text-align: right;
+}
+
+#upper_div{
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    background-color: palegoldenrod;
+    align-items: center;
+    justify-items: center;
+}
+#botton_div{
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    background-color: lemonchiffon;
+    align-items: center;
+    justify-items: center;
+}
+#input_div{
+    display: flex;
+    flex-direction: column;
+
+}
+
+.login_button{
+
+
+}
+
